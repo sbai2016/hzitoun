@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzitoun" alt="hzitoun" /> </p>
 
-- 🔭 I’m currently working on [Autogeo](autogeo.ai)
+- 🔭 I’m currently working on [Autogeo.ai](https://autogeo.ai) and [AtelierDeepLearning.com](http://AtelierDeepLearning.com)
 
 - 🌱 I’m currently learning **PPO (a reinforcement learning algorithm)**
 
@@ -22,6 +22,6 @@
 <p align="center"> 
 <a href="https://twitter.com/hdzitoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hdzitoun" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/hamed-zitoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hamed-zitoun" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/hzitoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hzitoun" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/3192021/hzitoun?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hzitoun" height="30" width="30" /></a>
 <a href="https://medium.com/@hzitoun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hzitoun" height="30" width="30" /></a>
 </p>
