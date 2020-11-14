@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzitoun" alt="hzitoun" /> </p>
 
-- 🔭 I’m currently working on [Autogeo.ai](https://autogeo.ai) and [iamondada.com](http://AtelierDeepLearning.com)
-
-- 🌱 I’m currently learning **PPO (a reinforcement learning algorithm)**
+<!-- 🔭 I’m currently working on [Autogeo.ai](https://autogeo.ai) and [iamondada.com](http://AtelierDeepLearning.com) -->
 
 - 👨‍💻 I daily share about ML on LinkedIn [https://www.linkedin.com/in/hamed-zitoun/](https://www.linkedin.com/in/hamed-zitoun/)
 
